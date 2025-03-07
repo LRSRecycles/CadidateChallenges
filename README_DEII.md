@@ -1,4 +1,4 @@
-### **Data Engineering II - Power BI / Jupyter Notebook Challenge**
+### **Data Engineering II - Power BI / Jupyter Notebook Challenge** 
 
 #### **Objective**
 The goal of this challenge is to evaluate the candidate’s ability to create a compelling and insightful data analysis using **Power BI or Jupyter Notebook**. The assessment focuses on **data visualization, storytelling, and analytical skills**, ensuring the candidate can present meaningful insights effectively.
